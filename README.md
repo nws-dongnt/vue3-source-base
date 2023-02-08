@@ -5,8 +5,11 @@ Nodejs from 16.0.0
 ### VSCode setup
 
 [Vuue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
+
 [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+
 [Disable Vetur].
 
 ## Type Support for `.vue` Imports in TS
