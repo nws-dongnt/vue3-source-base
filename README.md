@@ -1,13 +1,13 @@
 ### Requirement
 
-Node from 16.0
+Nodejs from 16.0.0
 
 ### VSCode setup
 
-Vuue Language Features (Volar) (https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-TypeScript Vue Plugin (Volar) (https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
-EditorConfig for VS Code (https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-Disable Vetur
+[Vuue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
+[TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+[Disable Vetur].
 
 ## Type Support for `.vue` Imports in TS
 
@@ -19,3 +19,10 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
     1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
     2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+
+### Setup
+step 1: create `.env.local`.
+
+step 2: run `npm install`.
+
+step 3: run `npm run dev`.
