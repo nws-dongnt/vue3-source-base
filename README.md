@@ -28,4 +28,6 @@ step 1: create `.env.local`.
 
 step 2: run `npm install`.
 
-step 3: run `npm run dev`.
+step 3: run `npm run prepare`.
+
+step 4: run `npm run dev`.
