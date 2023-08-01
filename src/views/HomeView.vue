@@ -4,6 +4,7 @@ import TheWelcome from "@/components/TheWelcome.vue";
 
 <template>
   <main>
+    <div class="dongnt m-2">DONGNT</div>
     <TheWelcome />
   </main>
 </template>
